@@ -8,7 +8,7 @@ recorded lectures!
 
 ## Call me Buffalo
 
-It's my nickname.  I am official Associate Professor Dr. Michael
+It's my nickname.  I am officially Associate Professor Dr. Michael
 Hewner. In the CSSE department we usually call professors by their
 first names, but there is already a Michael so people call me Buffalo.
 
@@ -31,7 +31,7 @@ if so welcome!
 The key thing is that this is not an official department resource and
 what I say here is not official department policy.  I'll never say
 anything I think is untrue *but* other folks in the department might
-have disagree.  Please rely on official things like the course catalog
+disagree.  Please rely on official things like the course catalog
 for rules and requirements and get opinions from a variety of sources
 for your life advice!
 
@@ -89,7 +89,7 @@ approval and that will be a process - that's something your advisor
 can help you with.
 
 But for now, just make a guess as to what your other things will count
-as approximately.  So if you've taken Chemistry 1 at some other school
+as approximately.  So if you've taken Chemistry 1 at some other college
 write Chemistry??? on your list.
 
 I'll have more specifics about CS courses specifically later, let's
@@ -215,10 +215,11 @@ get in - so this is something to stragegize with your advisor about.
 ## Second Majors
 
 So a second or 3rd major can be a lot easier or harder depending on
-overlap.  My favorite double major CS/SE, only requires 4 additional
-courses because the two degree programs have a lot in common - that's
-less than a lot of minors.  On the other hand, a 2nd major like
-Biology is going to take a lot more work - but is still very doable.
+overlap.  My favorite double major CS/SE, only requires 4 (maybe 5?)
+additional courses because the two degree programs have a lot in
+common - that's less than a lot of minors.  On the other hand, a 2nd
+major like Biology is going to take a lot more work - but is still
+very doable.
 
 The rules for double majoring can be a little complicated, but the
 basics are usually easy.  Look at the department that has the major
@@ -253,7 +254,7 @@ you're curious.
 
 You have to fill out a form to register for a major or minor
 officially, but I usually don't recommend doing that until your
-sophmore year unless you have a reason.
+sophomore year unless you have a reason.
 
 ## International Experiences
 
@@ -338,7 +339,7 @@ But I don't think you should decide - I think you should go with both.
 SE includes a lot of really useful skills that a very handly in
 software development.  CS has a lot of really cool topics that will
 expand the way you think about programming. If I could require
-everybody to take both of them, I would.  But that would mean to many
+everybody to take both of them, I would.  But that would mean too many
 credits.
 
 So if you have other weird things you want to do - you might have to
@@ -551,7 +552,9 @@ This can be true of both pre-reqs and full classes.
 But it's a favor not a sure thing.
 
 # What should I do if things go bad?
-# Internships
-a
 
-## Being desperate is not attractive!
+Coming soon!
+
+# Internships
+
+Coming soon!
