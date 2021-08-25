@@ -553,7 +553,190 @@ But it's a favor not a sure thing.
 
 # What should I do if things go bad?
 
-Coming soon!
+By bad in this case I mean "I am failing some classes".
+
+So first off, if you're watching this prior to taking your freshman
+classes at Rose: relax.  Most students find they need to make a little
+adjustment when they start at Rose - but overall they have success in
+their classes (where by success I mean reliable grades in the A-C
+range).  But I would guess the majority of students have difficulty at
+some point in their Rose career, so this advice will probably useful
+to almost everybody at some point.
+
+I include these videos here because I know that when students do have
+problems, sometimes they seem hesitant to seek me out in person.  Of
+course you should seek me out in person if you're having trouble!
+Helping students in trouble is one of my primary jobs as an advisor.
+But if you're working your way up to that - here's some basic
+non-judgmental advice that will hopefully make you feel a little more
+equipped for that meeting we will be having soon.
+
+## Doing Better
+
+### What is a normal level of work for a class?
+
+So there are a lot of Rose badasss mystique about students working
+crazy hours etc.  Students being students, I see a lot of late night
+homework submissions etc.  But for most students, there is overall a
+mix of work and play - not work every waking hour.
+
+Further, no individual class should be taking 5 hours a night every
+night.
+
+When I find students working crazy hours, they are often setting
+themselves up for failure.  They work crazy hours on the homework, and
+then fail on the exams where they can't throw unlimited time at the
+problem.  So if you are having trouble understanding the material for a
+class, don't try to compensate by working a crazy amount. Get help.
+
+### Talk to the professor
+
+This is always the first step.  Your professor will be happy to listen
+to your problems.  Your professor usually has detailed ideas about
+what you could do to fix things.  You may think your professor is
+scary - but your professor is concerned if you having trouble and
+really wants you to succeed.
+
+### Get some support from your fellow students
+
+Often times study groups or homework doing groups can provide help and
+also a feeling of camaraderie.  The best groupings tend to be students
+of a similar skill level where you are figuring out together - not
+really advanced students teaching weaker.  Just be sure you're getting
+a little help and not letting peers do your assignment for you.
+
+In CS, it's never appropriate to look directly at a peer's code for
+homework help AND definitely never appropriate to copy shared code
+into your own submission.
+
+### Tutors
+
+For help in a specific course, there are usually tutors (especially
+for lower-level courses).  The school provides some through the
+learning center:
+
+https://rosehulman.sharepoint.com/sites/LC/SitePages/Home.aspx
+
+Note some of these are walk in, others require appointments you can
+schedule in advance.
+
+Many CS classes also have CS Lab tutors that can help.
+
+If you find yourself having to get help from several different tutors
+to complete one assignment, that can be a sign you're struggling in
+the class.  Talk to your professor if you are unsure.
+
+## When the problem can't be fixed (this term): Dropping Classes
+
+Especially when you're struggling in several classes, it's important
+to recognize that sometimes reducing your workload is necessary.  Its
+far better to drop one class early - than let an overwhelming workload
+cause you to fail all your classes.
+
+So obviously, don't drop a class at the first hard assignment.  But
+also be realistic with yourself and take into consideration that
+having a reasonably happy life is also something you can want out of
+college.
+
+### Switching early
+
+If you know a class isn't going to work from the get go - getting out
+in the first week is the best.  For example, you might have a
+placement into a more difficult class - but discover you feel
+unprepared.
+
+In the first week of classes, dropping does not appear on your
+transcript and you can add other classes that are a better fit.
+
+Do not hesitate to pull the trigger on this - often it's best for
+everyone if you fix things right away before schedules are locked.
+
+### Withdrawing
+
+You can withdraw within the first 8 weeks of class.  This appears on
+your transcript as a W (trust me, employers do not care about that)
+and does not affect your GPA.
+
+If you're having difficulty in a class, keep this deadline in mind.
+BUT you don't have to wait till week 8 to withdraw (and often its
+better if you withdraw earlier so you can focus on your other
+classes).
+
+### Dropping below full time
+
+If withdrawing from a class (or classes) moves your whole schedule
+below 12 credit hours, you are considered part time.  You are allowed
+to drop to part time 2 times during your Rose career without any
+issue.  Beyond the 2nd time, you must get approval from the Admission
+and Standing Committee (but that is something that can usually get
+approved - you just have to explain your situation to them).
+
+Certain scholarships require full time standing - you should check
+with the office of Financial Aid and make sure your understand the
+repercussions.
+
+### Grade replacement
+
+So if you don't withdraw from a class and do get a bad score (D+ or
+worse) it's possible to remove the bad grade through a process called
+grade replacement.  Basically, if you retake the course and do better,
+the old grade can be expunged.
+
+This is often possible but not always.  In this case its best to refer
+the official rules:
+
+https://www.rose-hulman.edu/campus-life/student-services/registrar/rules-and-procedures/grade-replacement.html
+
+### GPA Requirements & Probation
+
+So if you are having major problems in your classes, one thing that
+might worry you is that you might be forced to leave Rose due to poor
+grades.  If this is of concern for you, it's good to know the rules:
+
+https://www.rose-hulman.edu/campus-life/student-services/registrar/rules-and-procedures/probation-and-dismissal.html
+
+The rules are a little complex.  Basically, if your GPA stays above
+2.0 you have nothing to worry about in terms of being dismissed.  If
+your GPA drops below 2.0 you will likely be placed on probation, and
+have 1 or 2 terms to fix them problem or you'll be dismissed.
+
+The exact details vary based on whether you're a freshman and how
+borderline you were before you dropped below the threshold.
+
+Main thing I want to say here is this: probation is bad but most
+students recover and graduate.  If you think you might be in danger of
+probation you definitely should talk with you advisor who can give you
+the exact specifics of your scenario.
+
+Oh and BTW even if you are *dismissed* that's not the same as being
+kicked out of Rose forever.
+
+
+
+## Don't Panic
+
+The main thing is this: usually when students have a problem, it is
+way more solvable then they think it is when they are solving that
+problem.
+
+Your advisor is here to help you keep things in perspective: if
+something is going wrong, go talk to them right now!
+
+## A Brief Aside: Academic Dishonesty
+
+Often when students are panicing, they'll talk to their friends and
+someone will offer some old solutions (i.e. to cheat).  Your courses
+will have specific details on the policies for that particular
+course - so let me just summarize:
+
+A great way to take a small easily solvable problem and turn it into a
+major problem is by getting caught cheating.
+
+All cheating is referred to the Dean of Students and potentially the
+Rules and Discipline committee.  They can levy much stronger penalties
+than failing a single course.
+
+
 
 # Internships
 
